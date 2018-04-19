@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Сколько метров в одном километре?",
+        "answers": [
+            {
+                "answer": "10",
+                "result": false
+            },
+            {
+                "answer": "100",
+                "result": false
+            },
+            {
+                "answer": "1000",
+                "result": true
+            }
+            
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+   {
+        "question": "Столица России?",
+        "answers": [
+            {
+                "answer": "Пермь",
+                "result": false
+            },
+            {
+                "answer": "Вологда",
+                "result": false
+            },
+            {
+                "answer": "Москва",
+                "result": true
+            }
+            
+        ]
+    }
+]
